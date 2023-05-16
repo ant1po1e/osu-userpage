@@ -32,8 +32,16 @@ Ranked: [b][color=#b3ff66]#b3ff66[/color][/b]
 Loved: [b][color=#ff64ac]#ff64ac[/color][/b]
 
 [box=HS]
-[centre][b]Total[/b]: 4[/centre]
+[centre][b]Total[/b]: 12[/centre]
 [list]
+[*][b][url=https://osu.ppy.sh/beatmapsets/1990406]YOASOBI - Idol[/url][/b] (AnatharaX)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1954251]GLORYHAMMER - The Epic Rage of Furious Thunder[/url][/b] (Worthlessnut9)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1987187]Monster Siren Records - Signore dei Lupi[/url][/b] (_Deafen)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1985598]David Wise - Volkmire's Inferno Race[/url][/b] (kekikosu)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1871958]LilDeuceDeuce - EVERYBODY DO THE FLOP (Cut Ver.)[/url][/b] (choof)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1942485]EmoCosine - Black sour Rouby[/url][/b] (ICECAKE)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1962820]Adust Rain - Misery Song[/url][/b] ([LS]Yunxami)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1627253]DJ SHARPNEL - BLUE ARMY (Raytoly's Progressive Hardcore Sped Up Edit)[/url][/b] (riunosk)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1705982][color=#b3ff66]Unlucky Morpheus - Angreifer[/color][/url][/b] (keksikosu)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1847096][color=#b3ff66]Nekomata Master - Call[/color][/url][/b] (Syrion-)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1830658][color=#b3ff66]t+pazolite - Garakuta Doll Play[/color][/url][/b] (keksikosu)
@@ -49,9 +57,12 @@ Loved: [b][color=#ff64ac]#ff64ac[/color][/b]
 [*][b][url=https://osu.ppy.sh/beatmapsets/1557834#mania/3182315]Camellia feat. Kradness - Rip It Off (Now) Rip It Off[/url][/b] (TheFunk)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1538431#mania/3201978]Team Grimoire vs Laur - Grievous Lady[/url][/b] (HEAL_69)[/list][/box]
 [box=GD & Collab]
-[centre][b]Total[/b]: 30[/centre]
+[centre][b]Total[/b]: 33[/centre]
 [list]
-[*][b][url=https://osu.ppy.sh/beatmapsets/1795227#mania/3679645]Hoshimachi Suisei - Starry Jet [Apol's Easy][/url][/b] (chocomilku-)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1627253#mania/4141164]DJ SHARPNEL - BLUE ARMY (Raytoly's ...) [Antipole's INSANE][/url][/b] (riunosk)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1986500#mania/4126439]kessoku band - BOCCHI THE ROCK! Songs Compilation[/url][/b] (Ainer)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1981258#mania/4114048]Camellia - Z:iRNiTRA [A:RiERA][/url][/b] ([GB]Rick)
+[*][b][url=https://osu.ppy.sh/beatmapsets/1795227#mania/3679645][color=#b3ff66]Hoshimachi Suisei - Starry Jet [Apol's Easy][/color][/url][/b] (chocomilku-)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1912703#mania/3945491]MOMOIRO CLOVER Z - SANTA SAN [SUPER CHRISTMAS COLLAB!][/url][/b] (diamant66)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1910964#mania/3941727]Akiri - BREAK FOR EVEREST [Transcending Limits, To the Final Summit][/url][/b] (TingMomentum)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1893984#mania/3902986]YOASOBI - Shukufuku [Justice Collab][/url][/b] (Kibitz)
@@ -63,7 +74,6 @@ Loved: [b][color=#ff64ac]#ff64ac[/color][/b]
 [*][b][url=https://osu.ppy.sh/beatmapsets/1644396#mania/3658773][color=#b3ff66]Yuuki Noa (CV: Kanako) - The Order... [Apol's Hard][/color][/url][/b] (Drum-Hirnormal)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1779859#mania/3645061]Camellia - Tojita Sekai [The End of the world .. and a New Beginning][/url][/b] (Oceanus)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1745006#mania/3569197]Kobaryo - Everlasting Liberty [Apol's Basic][/url][/b] (KokoFoxGamers)
-[*][b][url=https://osu.ppy.sh/beatmapsets/1752392#mania/3586378]DJ SHARPNEL - BLUE ARMY (Raytoly's ...) [APOL'S TACTICAL DELIVERANCE][/url][/b] (Joltzzz)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1732636#mania/3541550]TAG - POTENTIAL [SYMA's NORMAL][/url][/b] (Japeynius)
 [*][b][url=https://osu.ppy.sh/beatmapsets/1711829#mania/3522826]Qrispy Joybox - Fly To Next World [Syma's Basic][Syma's Medium][/url][/b] (Naverlyn)
 [*][b][url=https://osu.ppy.sh/beatmapsets/943889#mania/3521286]Endorfin. - Spica [Syma's Normal][/url][/b] (Amiichii)
@@ -85,14 +95,14 @@ Loved: [b][color=#ff64ac]#ff64ac[/color][/b]
 [/list][/box][/notice][/box][/quote]
 
 [quote][box=PERIPHERALS][notice][centre][size=150]» ———————————————— «[/size][/centre]
-[b]Laptop[/b]: Lenovo G480
-[b]Keyboard[/b] (For typing): Rexus Legionare MX 3.2 (Switches)
-[b]Keyboard[/b] (For playing): NYK Sacred K-02 (Membrane)
-[b]Mouse[/b]: Rexus Xierra X12
+[b]Laptop[/b]: Dell Precision 3520
+[b]Keyboard[/b] (For typing): Rexus Legionare MX 3.2 (Mechanical)
+[b]Keyboard[/b] (For playing): Rexus Battlefire K9 TKL (Membrane)
+[b]Mouse[/b]: Rexus Xierra G10
 [b]Headphone[/b]: Rexus Vonix F26M
 [b]Earphone[/b]: KZ-EDX PRO
 
-[b]Mania Keybinds[/b]: "Z X Num1 Num2" "S D Num4 Num5" "Q W Num* Num-"
+[b]Mania Keybinds[/b]: "Z X . /" "S D Num4 Num5" "Q W Num* Num-"
 [b]Taiko Keybind[/b]: "C V N M (KDDK)"
 
 [box=Skins]
@@ -133,7 +143,7 @@ Uhhh i cant list every kind people, anyway thank you for whoever gave me a supp!
 
 [quote][box=AVATAR COLLABS][notice][centre][size=150]» ———————————————— «[/size][/centre]
 
-[box=Limbus Company Collab][centre][img]https://i.imgur.com/GkaThMX.png[/img][profile=24490429]KoshiK-h[/profile], [profile=23274559]iid3rp[/profile], [profile=14390680]I LOVE REQUIS 2[/profile], [profile=13360768][ Decku ][/profile], [profile=17258072]Antipole[/profile], [profile=7080063]RandomeLoL[/profile], [profile=16341063][ deleted ][/profile], [profile=15399445]Nator1[/profile], [profile=11247298]Nerd Guy[/profile], [profile=27855382]-Ainsel-[/profile], [profile=11330898]Catzu[/profile], [profile=10303887]oct4[/profile], [profile=6419597]Damaree[/profile], [profile=15513303]I LOVE REQUIS 5[/profile][/centre][/box]
+[box=Limbus Company Collab][centre][img]https://i.imgur.com/GkaThMX.png[/img][profile=24490429]AquaTC[/profile], [profile=23274559]iid3rp[/profile], [profile=14390680]AnatharaX[/profile], [profile=13360768][ Decku ][/profile], [profile=17258072]Antipole[/profile], [profile=7080063]RandomeLoL[/profile], [profile=16341063][ deleted ][/profile], [profile=15399445]Nator1[/profile], [profile=11247298]Nerd Guy[/profile], [profile=27855382]-Ainsel-[/profile], [profile=11330898]Catzu[/profile], [profile=10303887]oct4[/profile], [profile=6419597]Damaree[/profile], [profile=15513303]Znow[/profile][/centre][/box]
 
 [box=Endless Mirage Megacollab 7th Edition][centre][url=https://endlessmirage.net/collabs/7th/banner][img]https://i.imgur.com/t4l8sJa.png[/img][/url][/centre][/box]
 
@@ -175,6 +185,7 @@ Overall: ★★★★,25
 [/box][/notice][/box][/quote]
 
 [quote][box=YOUTUBE][notice][centre][size=150]» ———————————————— «[/size][/centre]
-[youtube]fFdlbsAUGR0[/youtube][youtube]Q02ipDVGuJk[/youtube][youtube]BYEbORLyTek[/youtube][/notice][/box][/quote]
+[centre]
+[youtube]6PN_K2baGzo[/youtube][youtube]IvGV8NV5WaE[/youtube][youtube]BYEbORLyTek[/youtube][/centre][/notice][/box][/quote]
 [centre][img]https://cdn.discordapp.com/attachments/841680616591196160/1054124499458596905/rsz_headerpng_1534.png[/img][/centre]
 Planning to quit after joinning MWC2023 and having 20 (or 15 if i couldn't) ranked maps before 2024
