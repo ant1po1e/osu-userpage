@@ -1,37 +1,77 @@
 [centre][imagemap]
-https://antipole.s-ul.eu/ml0neCL6
-18.1 80 19.5 12 https://www.youtube.com/@ant1po1e Youtube
+https://antipole.s-ul.eu/wu4P0iTP
+18.1 80 19.5 12 https://www.youtube.com/@ant1po1e YouTube
 40.2 80.3 19.5 12 https://twitter.com/apolantipole Twitter
-62.4 80 19.5 12 https://antipole.my.id/ Personal Website
-[/imagemap][/centre]
+62.4 80 19.5 12 https://antipole.my.id/ Website
+[/imagemap]
 
-[centre]╰══• °˖✿˚⋆ ⁎ ❄ + ❆ ° ❉ ✻ ° ❅ ⁎ ❄ + ⋆˚✿˖° •══╯
+[size=150]୨୧ ── ✦ ˚₊‧ ♡ ‧₊˚ ✦ ── ୨୧[/size]
 
-Hewo~ I'm Alicia, known as Antipole. 
-I'm retired playing competitively as im more into tournament staffing, anddd uni stuff make busy always qwq. 
-If you wanna mutual with me, just poke me~ (I always check mutualify!) ⸜(｡˃ ᵕ ˂ )⸝♡
+hewoo~ i’m [b]alicia[/b], also known as [i]antipole[/i] ♡  
+formerly a competitive player, now mostly busy with tournament staffing + uni life…  
+things can get a little hectic sometimes ⟡
 
-[box=:3][img]https://tenor.com/view/nijisanji-amamiya-kokoro-amamiya-kokoro-amyamya-gif-21734174.gif[/img][/box]
+if you’d like to mutual, feel free to poke me anytime~  
+i always check mutualify ⸜(｡˃ ᵕ ˂ )⸝♡
 
-[b]Current role(s)[/b]: MWC4K2026 Mapper, FAME Mappool Advisor
+[box=:3][img]https://antipole.s-ul.eu/toMDPA9x[/img][/box]
 
-[b]Mapping[/b]: Semi-Active
-[b]Playing[/b]: Semi-Active
-[b]HS/GD/Collab[/b]: Inactive
-[b]Modding[/b]: Inactive
+[size=115]꒰ა current roles ໒꒱[/size]  
+✦ mwc4k2026 mapper  
+✦ fame mappool advisor  
 
-I dont have song preference but I'm very picky abt the song itself 
-so I'll just list some song genre that I usually listen to: 
-Metal, Indie-rock, J-rock, Math-rock, smth smth koan sound/false noise, 
-or just look at my maps/gds before requesting something to me.
+[size=100]୨୧ ── ⋆ ˚ ｡⋆ ☁️ ⋆｡˚ ⋆ ── ୨୧[/size]
 
->> If I owe you smth please kindly remind me abt it cuz im having a bad memory <<
+[size=115]꒰ა activity ໒꒱[/size]  
+✦ mapping ─ active  
+✦ playing ─ semi-active  
+✦ hs / gd / collab ─ inactive  
+✦ modding ─ inactive  
 
-Here's my peripherals that I use for daily uses~
-[b]Device[/b]: Lenovo LOQ 15 Laptop
-[b]Keyboard[/b]: PressPlay Essential75 HE (Gateron Genty Silent + o-ring)
-[b]Mouse[/b]: PressPlay Atlas
-[b]Audio[/b]: KZ Saga (with QKZ T1 Cable)
+[size=85][i]
+if i still owe you something,  
+please remind me kindly~ 
+
+my memory likes to wander away sometimes ⟡
+[/i][/size]
+
+[box=mapping]
+[notice]
+
+[box=how do i map ?]
+
+✦ i enjoy mapping all kinds of genres or pattern.  
+i don’t really have a comfort zone, and i think that helps me improve more.
+
+✦ i like expressing the emotion of a song through unusual yet memorable patterns,  
+so players can feel the music directly through gameplay.
+
+✦ i usually focus on one specific sound at a time  
+(for example, vocals first) to make it stand out more clearly.
+
+✦ if a song feels too slow or low bpm,  
+i sometimes multiply the bpm for more snapping freedom.
+
+[/box]
+
+i don’t really have a fixed song preference,  
+but i can be a little picky with what feels “right” ♡
+
+things i usually enjoy:  
+✦ metal  
+✦ indie rock  
+✦ j-rock  
+✦ math rock  
+✦ koan sound / false noise-ish vibes  
+
+feel free to check my maps or gds beforehand ⟡
+
+[b]please feel free to use my maps in tournaments!![/b]  
+i’d really love it if you let me know in dms sometime~  
+seeing people play them genuinely makes me happy ♡
+
+[/notice]
+[/box]
 
 [imagemap]
 https://antipole.s-ul.eu/abfjsm38
@@ -39,8 +79,19 @@ https://antipole.s-ul.eu/abfjsm38
 50 33.8 50 66.2 https://osu.ppy.sh/users/12606730 YunoMaya
 [/imagemap]
 
-[size=50]im smol[/size]
+[size=55][i]im smol[/i][/size]
 
-╰══• °˖✿˚⋆ ⁎ ❄ + ❆ ° ❉ ✻ ° ❅ ⁎ ❄ + ⋆˚✿˖° •══╯[/centre]
+[size=150]୨୧ ── ✦ ˚₊‧ ♡ ‧₊˚ ✦ ── ୨୧[/size]
 
-[i]For those who come after[/i][/centre]
+[imagemap]
+https://antipole.s-ul.eu/VwXrzFuh
+17.7 20.7 19.5 22.5 https://antipole.my.id/projects Projects
+40.2 21.1 19.5 22.5 https://antipole.my.id/staffing Staffing
+62.8 20.6 19.5 22.5 https://antipole.my.id/tools osu! Tools
+14.2 56.8 34.3 19.5 https://www.mapperinfluences.com/profile/17258072 Mapper Influences
+51.5 56.7 34.1 19.5 https://www.antipole.my.id/contributed-beatmaps Beatmap Database
+[/imagemap]
+
+[size=85][i]"for those who come after"[/i][/size]
+
+[/centre]
