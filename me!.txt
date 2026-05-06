@@ -1,5 +1,5 @@
 [centre][imagemap]
-https://antipole.s-ul.eu/wu4P0iTP
+https://antipole.s-ul.eu/RB1wzEqH
 18.1 80 19.5 12 https://www.youtube.com/@ant1po1e YouTube
 40.2 80.3 19.5 12 https://twitter.com/apolantipole Twitter
 62.4 80 19.5 12 https://antipole.my.id/ Website
@@ -73,6 +73,7 @@ seeing people play them genuinely makes me happy ♡
 [/notice]
 [/box]
 
+
 [imagemap]
 https://antipole.s-ul.eu/abfjsm38
 0 17.8 50.3 82.2 https://osu.ppy.sh/users/17258072 Alicia
@@ -84,7 +85,7 @@ https://antipole.s-ul.eu/abfjsm38
 [size=150]୨୧ ── ✦ ˚₊‧ ♡ ‧₊˚ ✦ ── ୨୧[/size]
 
 [imagemap]
-https://antipole.s-ul.eu/VwXrzFuh
+https://antipole.s-ul.eu/fpWLRQ5q
 17.7 20.7 19.5 22.5 https://antipole.my.id/projects Projects
 40.2 21.1 19.5 22.5 https://antipole.my.id/staffing Staffing
 62.8 20.6 19.5 22.5 https://antipole.my.id/tools osu! Tools
